@@ -1,0 +1,5 @@
+k8s_config:
+- manifest_path: /test
+  cluster_info:
+    cluster_id: 62462a4c-ccda-58bf-8d8a-c3c5038b9a1d
+    cluster_name: Alejandro's cluster
