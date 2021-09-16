@@ -1,0 +1,5 @@
+k8s_config:
+- manifest_path: DFGHDFGH
+  cluster_info:
+    cluster_id: 63dfac07-75a6-55f4-bf8f-fd99e582a043
+    cluster_name: Alex Gervais's cluster
